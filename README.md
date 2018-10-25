@@ -19,6 +19,6 @@ expand('https://tinyurl.com/ycrtdwxa');
 verebiliriz. Dönen değer; `http://emrecanoztas.com/` şeklinde olacaktır.
 
 
-**NOT:** Daha önce herhangi bir kısaltılmış bir URL, başka bir servis üzerinden yeniden kısaltılırsa; `expand($url)` metodu size;
-daha önce bir önceki kısaltılmış URL formatını verir. Dolayısıyla; sağlıklı bir sonuç elde etmek için dönen değerle birlikte en az 2 defa
+**NOT:** Daha önce herhangi bir servis üzerinden kısaltılmış URL, başka bir servis üzerinden yeniden kısaltılırsa; `expand($url)` metodu size;
+daha bir önceki kısaltılmış URL formunu verir. Dolayısıyla; sağlıklı bir sonuç elde etmek için dönen değerle birlikte en az 2 defa
 çalıştırılmalıdır.
