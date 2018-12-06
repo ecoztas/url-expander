@@ -1,7 +1,7 @@
 # url-expander
 
 ### Açıklama:
-Çeşitli servisler tarafından kısaltılan URL'i asıl formuna çeviren betik.
+Çeşitli servisler tarafından kısaltılan URL'i asıl formuna çevirme işlemini yerine getiren metot barınmaktadır.
 
 Daha önce blogumda yazmış olduğum kısaltılmış URL'in asıl formuna çevirilmesiyle ilgili makaleyi [buradan](http://emrecanoztas.com/kisaltilmis-urli-eski-haline-cevirme/) okuyabilirsiniz.
 
