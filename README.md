@@ -2,7 +2,7 @@
 
 Çeşitli servisler tarafından kısaltılan URL'i asıl formuna çeviren betik.
 
-Daha önce blogumda yazmış olduğum kısaltılmış URL'in asıl formuna çevirilmesiyle ilgili makaleyi [buradan](http://emrecanoztas.com/kisaltilmis-url-yapisini-asil-formuna-cevirme/) okuyabilirsiniz.
+Daha önce blogumda yazmış olduğum kısaltılmış URL'in asıl formuna çevirilmesiyle ilgili makaleyi [buradan](http://emrecanoztas.com/kisaltilmis-urli-eski-haline-cevirme/) okuyabilirsiniz.
 
 url-expander, cURL ile işlem yapmaktadır.
 
